@@ -2,12 +2,12 @@ body{
     margin: 0;
 }
 
-@media only screen and (max-width: 480px), (orientation: portrait){
+/*@media only screen and (max-width: 480px), (orientation: portrait){
     body{
         width: 480px;
         height: auto;
     }
-}
+}*/
 
 header{
     display:flex;
