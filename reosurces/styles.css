@@ -18,8 +18,10 @@ header{
 }
 
 @media only screen and (max-width: 480px), (orientation: portrait){
-    .logo{
-        width: 100px;
+    .logo img{
+        width:300px;
+        position: relative;
+        right: 50px;
     }
 }
 
